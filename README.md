@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/6OCNMtP.png" />
+</p>
+
 # Nice Hotkeys Mod
 
 This is a **MelonLoader** Mod for **ChilloutVR**, 
