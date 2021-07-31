@@ -13,6 +13,9 @@ The **Nice Hotkeys mod** adds QOL changes to **ChilloutVR** being able to have a
 
 **MelonLoader**: https://melonwiki.xyz/#/?id=requirements
 
+# Discord
+You can join STARCVR discord: https://discord.gg/sHN9x2n2j8
+
 # Hotkeys
 
 **CTRL+K** = **Reset Avatar** (I originally planned for CTRL+\ but it didn't take in factor of Nordic Keyboards)
