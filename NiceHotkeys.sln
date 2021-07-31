@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NiceHotkeys", "NiceHotkeys.csproj", "{8437E5F6-3B2B-4503-9930-D47DBEFAA09B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8437E5F6-3B2B-4503-9930-D47DBEFAA09B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8437E5F6-3B2B-4503-9930-D47DBEFAA09B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8437E5F6-3B2B-4503-9930-D47DBEFAA09B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8437E5F6-3B2B-4503-9930-D47DBEFAA09B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B85A2C9-EAA1-49C7-904B-59A8676CD430}
+	EndGlobalSection
+EndGlobal
