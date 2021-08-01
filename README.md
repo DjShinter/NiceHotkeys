@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/6OCNMtP.png" />
+</p>
+
 # Nice Hotkeys Mod
 
 This is a **MelonLoader** Mod for **ChilloutVR**, 
@@ -9,13 +13,16 @@ The **Nice Hotkeys mod** adds QOL changes to **ChilloutVR** being able to have a
 
 **MelonLoader**: https://melonwiki.xyz/#/?id=requirements
 
+# Discord
+You can join **STARCVR** discord: https://discord.gg/sHN9x2n2j8
+
 # Hotkeys
 
 **CTRL+K** = **Reset Avatar** (I originally planned for CTRL+\ but it didn't take in factor of Nordic Keyboards)
 
 **CTRL+Z** = **Remove All Avatars** (https://forums.abinteractive.net/d/223-hot-key-for-removing-avatars-in-the-lobby)
 
-**CTRL+R** = **Respawn Player** 
+**CTRL+R** = **Respawn Player** v1.0.1 can also stop velocity crashing.
 
 ![](https://i.imgur.com/sOLZ9W2.gif)
 
@@ -36,7 +43,7 @@ If this mod breaks terms of service, I will shutdown this project immediately as
 
 I'm not going to provide "**MelonLoader.dll**" & game files related to ChilloutVR, this is on you!
 
-Download the Source Code and reference "**MelonLoader.dll**" & "**Assembly-CSharp.dll**" & "**UnityEngine.InputModule.dll**" & "**UnityEngine.InputLegacyModule.dll**".
+Download the Source Code and put the DLL's in /Libs which are: "**MelonLoader.dll**" & "**Assembly-CSharp.dll**" & "**UnityEngine.InputModule.dll**" & "**UnityEngine.InputLegacyModule.dll**", "**UnityEngine.PhysicsModule.dll**".
 
 # Is this mod not allowed?
 
@@ -64,13 +71,17 @@ Two problems regarding the game guidelines is:
 
 But it also says in the particular statements of their official guidelines in their official website that states the following:
 
-**§5.2 We allow modding of our games and access to our API as long as the guidelines are met. Malicious modifications or game changing modifications without permission are a violation of the terms of service and strictly forbidden.**
+**5.2 We allow modding of our games and access to our API as long as the guidelines are met. Malicious modifications or game changing modifications without permission are a violation of the terms of service and strictly forbidden.**
 
 which states that modding is allowed, since the guidelines have been updated in the forum post.
 
 In here it states:
 
-**§5.7 Spreading modified versions of our code without our allowance is strictly forbidden.** (Basically to not create any mods that affect their code, so you still require permission to publish, **which I believe in the long run this is stressful task for the company to look at every distributed modification of their game and approve each one**, I believe that if it is following the guidelines it should be permissible at best and if it is **disapproved or declined to be shutdown immediately**)
+**5.7 Spreading modified versions of our code without our allowance is strictly forbidden.** (Basically to not create any mods that affect their code, so you still require permission to publish, **which I believe in the long run this is stressful task for the company to look at every distributed modification of their game and approve each one**, I believe that if it is following the guidelines it should be permissible at best and if it is **disapproved or declined to be shutdown immediately**)
 
-**§5.8 You may not reverse engineer our games.** (In this case you wouldn't be able to create a mod at all, meaning you wouldn't be able to really create a quality of life mod if that is the case since you won't be allowed to interact with anything regarding the game, and unfortunately guessing the game mechanics is not a viable option either)
+**5.8 You may not reverse engineer our games.** (In this case you wouldn't be able to create a mod at all, meaning you wouldn't be able to really create a quality of life mod if that is the case since you won't be allowed to interact with anything regarding the game, and unfortunately guessing the game mechanics is not a viable option either)
 
+# My game has issues whats wrong??
+
+I can assure that my mod does not cause any issues, but **DO NOT CREATE A SUPPORT CODE** in game, since it is pointless for me and wastes the CVR Dev's time.
+If you have an issues, please create an issue in the "issues" part of github.
