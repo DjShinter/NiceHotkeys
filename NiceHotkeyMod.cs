@@ -9,6 +9,7 @@ namespace NiceHotkeys
     public sealed class NiceHotkeyMod : MelonMod
     {
         public static Rigidbody rbcvr;
+        public static Transform trcvr;
         public override void OnUpdate()
         {
             if (Input.GetKeyDown(KeyCode.K) && Input.GetKey(KeyCode.LeftControl))
@@ -17,7 +18,6 @@ namespace NiceHotkeys
             }
             if (Input.GetKeyDown(KeyCode.R) && Input.GetKey(KeyCode.LeftControl))
             {
-
                 Respawn();
             }
             if (Input.GetKeyDown(KeyCode.Z) && Input.GetKey(KeyCode.LeftControl))
@@ -35,6 +35,8 @@ namespace NiceHotkeys
             rbcvr = PlayerSetup.Instance.GetComponent<Rigidbody>(); // get local player rigidbody
             rbcvr.velocity = Vector3.zero; // to prevent velocity freeze
             rbcvr.position = Vector3.zero; // to prevent velocity freeze
+            trcvr = PlayerSetup.Instance.GetComponent<Transform>(); // get local player transform
+            trcvr.localPosition = Vector3.zero; // teleport transform to 0,0,0 to prevent velocity freeze
             RootLogic.Instance.Respawn();
             MelonLogger.Msg("Respawned.");
         }
