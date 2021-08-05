@@ -11,7 +11,14 @@ The **Nice Hotkeys mod** adds QOL changes to **ChilloutVR** being able to have a
 
 **Steam Store Page**: https://store.steampowered.com/app/661130/ChilloutVR/
 
+This mod was created with no affiliation to Alpha Blend Interactive / ABI
+
+Any references to code related to Alpha Blend Interactive / ABI is code owned by them.
+
 **MelonLoader**: https://melonwiki.xyz/#/?id=requirements
+
+
+
 
 # Discord
 You can join **STARCVR** discord: https://discord.gg/sHN9x2n2j8
@@ -53,35 +60,18 @@ Download the Source Code and put the DLL's in /Libs which are: "**MelonLoader.dl
 
 If you are scared of using modifications in your game **do not install mods**.
 
-Official post regarding Modding: https://forums.abinteractive.net/d/107-developer-update-6
+Official post regarding Modding: https://documentation.abinteractive.net/official/legal/tos/#7-modding-our-games
 
-- **You may only create modifications for the purpose of improving the game**. Malicious intent is and will be punished in any case we deem necessary to take action on.
+§7.1 You may only create modifications for the purpose of improving the game. Malicious mods are not permitted and will be punished in any case we deem it necessary to take action on. ✅
 
-- **Mod sources have to be public so that users can build their own version and read through the code** for security reasons.
+§7.2 If you plan on publishing your mods (or release them to the CVR Workshop once available) you must release the mods sourcecode to the public (for example by using github). ✅
+
+§7.3 Publishing obfuscated mods is not allowed. ✅ (My mod is completely open sourced and does not have any obfuscations)
+
+§7.4 If you have to overwrite, alter or include base game scripts with your mod, **you have to request appropriate permission before releasing it to the public**. In this case we also require you to include a disclaimer that the base code of the game is owned by us. This may be a simple one-liner. ❌ (I have not received a message regarding permission yet but I have made an email regarding it to be at the very least reviewed or checked out)
+
+§7.5 When releasing mods to the public, it is required to state, that the mod authors are in no affiliation with ABI. ✅ (Explained at the beginning that I am not affliated with ABI in the making of this mod)
+
+§7.6 You may never create cheats / hacks to bypass limitations or gain an unfair advantage in any game mode or game world. ✅ (This mod is not designed to bypass or gain an unfair advantage, and if it does I will update my mod)
 
 
-https://docs.abinteractive.net/general-platform-information/rules-guidelines-and-tos
-
-Two problems regarding the game guidelines is:
-
-**Distribution of game code is strictly prohibited**.
-**You may never distribute decompiled game code**.
-
-**In the code I have distributed** a function that is decompiled, but **without this function this modification would not work**, This mod was created as a challenge to the modding guidelines and such is not an attack to the company, but advising for revising the modding guidelines.
-
-But it also says in the particular statements of their official guidelines in their official website that states the following:
-
-**5.2 We allow modding of our games and access to our API as long as the guidelines are met. Malicious modifications or game changing modifications without permission are a violation of the terms of service and strictly forbidden.**
-
-which states that modding is allowed, since the guidelines have been updated in the forum post.
-
-In here it states:
-
-**5.7 Spreading modified versions of our code without our allowance is strictly forbidden.** (Basically to not create any mods that affect their code, so you still require permission to publish, **which I believe in the long run this is stressful task for the company to look at every distributed modification of their game and approve each one**, I believe that if it is following the guidelines it should be permissible at best and if it is **disapproved or declined to be shutdown immediately**)
-
-**5.8 You may not reverse engineer our games.** (In this case you wouldn't be able to create a mod at all, meaning you wouldn't be able to really create a quality of life mod if that is the case since you won't be allowed to interact with anything regarding the game, and unfortunately guessing the game mechanics is not a viable option either)
-
-# My game has issues whats wrong??
-
-I can assure that my mod does not cause any issues, but **DO NOT CREATE A SUPPORT CODE** in game, since it is pointless for me and wastes the CVR Dev's time.
-If you have an issues, please create an issue in the "issues" part of github.
