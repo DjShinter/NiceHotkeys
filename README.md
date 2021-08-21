@@ -11,7 +11,7 @@ The **Nice Hotkeys mod** adds QOL changes to **ChilloutVR** being able to have a
 
 **Steam Store Page**: https://store.steampowered.com/app/661130/ChilloutVR/
 
-This mod was created with no affiliation to Alpha Blend Interactive / ABI
+This mod was created with no affiliation and not supported by Alpha Blend Interactive / ABI
 
 Any references to code related to Alpha Blend Interactive / ABI is code owned by them.
 
