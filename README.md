@@ -60,18 +60,20 @@ Download the Source Code and put the DLL's in /Libs which are: "**MelonLoader.dl
 
 If you are scared of using modifications in your game **do not install mods**.
 
-Official post regarding Modding: https://documentation.abinteractive.net/official/legal/tos/#7-modding-our-games
+Official post regarding Modding: https://docs.abinteractive.net/official/legal/tos/#7-modding-our-games
 
 §7.1 You may only create modifications for the purpose of improving the game. Malicious mods are not permitted and will be punished in any case we deem it necessary to take action on. ✅
 
-§7.2 If you plan on publishing your mods (or release them to the CVR Workshop once available) you must release the mods sourcecode to the public (for example by using github). ✅
+§7.2 If you plan on publishing your mods to the workshop you must release the mods sourcecode to the public (for example by using github). This does not affect mods hosted on third party platforms directly, that are not released to the workshop. ✅
 
-§7.3 Publishing obfuscated mods is not allowed. ✅ (My mod is completely open sourced and does not have any obfuscations)
+§7.3 Publishing obfuscated mods to the workshop is not allowed. ✅
 
-§7.4 If you have to overwrite, alter or include base game scripts with your mod, **you have to request appropriate permission before releasing it to the public**. In this case we also require you to include a disclaimer that the base code of the game is owned by us. This may be a simple one-liner. ❌ (I have not received a message regarding permission yet but I have made an email regarding it to be at the very least reviewed or checked out)
+§7.4 If you have to overwrite, alter or include base game scripts with your mod, you have to request appropriate permission before releasing it to the public. In this case we also require you to include a disclaimer that the base code of the game is owned by us. This may be a simple one-liner. ✅
 
-§7.5 When releasing mods to the public, it is required to state, that the mod authors are in no affiliation with ABI. ✅ (Explained at the beginning that I am not affliated with ABI in the making of this mod)
+§7.5 When releasing mods to the public, it is required to state, that the mod authors and modification are in no affiliation with ABI and not supported by ABI. ✅
 
-§7.6 You may never create cheats / hacks to bypass limitations or gain an unfair advantage in any game mode or game world. ✅ (This mod is not designed to bypass or gain an unfair advantage, and if it does I will update my mod)
+§7.6 You may never create cheats / hacks to bypass limitations or gain an unfair advantage in any game mode or game world. ✅
+
+§7.7 When installing mods, the liability for damage and harm caused by such is on the user. ABI will not be liable for any harm, damage or any other negative impact caused by modifications loaded from sources other than the official workshop. ✅
 
 
